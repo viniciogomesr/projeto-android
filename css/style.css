@@ -134,7 +134,7 @@ main p {
 
 aside {
     background-color: var(--cor02);
-    border-radius: 0px 0px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
 }
 
 aside h3 {
