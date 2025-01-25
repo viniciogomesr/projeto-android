@@ -59,7 +59,7 @@ header p {
     font-size: 0.8em;
 }
 
-nav {
+/*nav {
     padding: 10px;
     background-color: var(--cor06);
     box-shadow: 2px 2px 2px 0px #00000050;
@@ -79,7 +79,7 @@ nav a:hover {
     background-color: var(--cor02);
     padding: 6px;
     border-radius: 6px;
-}
+}*/
 
 /* Configuração do main */
 
