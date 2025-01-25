@@ -166,10 +166,10 @@ aside p {
 }
 
 aside > ul {
-    list-style: disc;
+    list-style: none;
     list-style-position: inside;
     columns: 2;
-    padding: 0px 20px;
+    padding: 0px 10px;
 }
 
 /* Configuração do footer */
