@@ -57,6 +57,7 @@ header p {
     text-shadow: 2px 2px 2px #000000;
     font-family: var(--fontepadrao);
     font-size: 0.8em;
+    padding: 10px;
 }
 
 /*nav {
