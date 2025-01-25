@@ -131,11 +131,27 @@ main p {
     margin: auto;
 }
 
+/* Configuração do vídeo */
+
+div.video {
+    position: relative;
+    padding-bottom: 56.2%;
+}
+
+div.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
+
 /* Configuração do aside */
 
 aside {
     background-color: var(--cor02);
     border-radius: 10px;
+    box-shadow: 2px 2px 5px 0px #00000050; 
 }
 
 aside h3 {
