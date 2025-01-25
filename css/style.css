@@ -48,7 +48,7 @@ header {
 header h1 {
     color: var(--branco);
     text-shadow: 2px 2px 2px #000000;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
     font-weight: normal;
 }
 
@@ -57,7 +57,7 @@ header p {
     text-shadow: 2px 2px 2px #000000;
     font-family: var(--fontepadrao);
     font-size: 0.8em;
-    padding: 10px;
+    padding-bottom: 10px;
 }
 
 /*nav {
