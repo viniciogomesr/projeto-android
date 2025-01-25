@@ -104,6 +104,7 @@ main h1 {
     font-family: var(--fonteandroid);
     font-size: xx-large;
     font-weight: normal;
+    color: var(--cor06);
 }
 
 main h2 {
@@ -111,7 +112,7 @@ main h2 {
     font-weight: normal;
     font-size: larger;
     background-image: linear-gradient(to right, var(--cor02), transparent);
-    color: var(--cor05);
+    color: var(--cor06);
     border-radius: 6px 6px 6px 6px;
     margin: 10px 0px;
     text-indent: 5px;
@@ -134,14 +135,14 @@ main p {
 
 aside {
     background-color: var(--cor02);
-    border-radius: 5px 5px 5px 5px;
+    border-radius: 10px;
 }
 
 aside h3 {
     background-color: var(--cor05);
     color: var(--branco);
     padding: 10px;
-    border-radius: 5px  5px 0px 0px;
+    border-radius: 10px  10px 0px 0px;
 }
 
 aside p {
@@ -149,10 +150,10 @@ aside p {
 }
 
 aside > ul {
-    list-style-type: '\1F5F8\00a0\00a0\00a0';
+    list-style: disc;
     list-style-position: inside;
     columns: 2;
-    padding: 0px 10px;
+    padding: 0px 20px;
 }
 
 /* Configuração do footer */

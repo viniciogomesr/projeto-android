@@ -1,4 +1,7 @@
 # projeto-android
- Projeto de um site android, refeito do zero por mim, sem copiar código, por isso está um pouco diferente do projeto original, feito no fim do módulo 02 do curso de html e css com o professor gustavo guanabara do cursoemvideo.
+ Projeto de um site contando um pouco da história do mascote android.
+Esse projeto partiu do final do módulo 02 do curso de HTML e CSS do Curso em Vídeo.
+Porém, este que estou publicando foi refeito do zero por mim, através de muita releitura e revisão, afim de testar e praticar os meus conhecimentos adquiridos durante o curso.
 
+OBS: o menu não está funcional, pois o intuito é testar as aplicações e montar um layout de site.
 visite o site através deste [link](https://viniciogomesr.github.io/projeto-android/)
